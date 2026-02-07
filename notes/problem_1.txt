@@ -1,0 +1,10 @@
+1. you dont know how many rows and columns are there in the data
+2. what type of data is there in your row and columns
+3. which data is missing on which columns 
+
+we can summarize all this using a method in PANDA which is called as "info" i.e info()
+info() will display following:
+column name
+data type (int, float)
+non null counts
+memoty usage of the data frame 

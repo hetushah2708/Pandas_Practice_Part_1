@@ -1,0 +1,4 @@
+# Why do we need to explore the Data?
+1. we need to understand the data set (how many rows, columns , what are the column names type of data(text,numbers,dates))
+2. then, need to identify the problems(missing data, incorect data, duplicate data)
+3. then, plan next steps

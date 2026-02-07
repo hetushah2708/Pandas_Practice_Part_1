@@ -1,0 +1,24 @@
+Questions:
+1. How to select a specific Column?
+2. How to filter rows inside in the data set using condition?  
+3. if you want combine multipe conditions and then want to filter rows
+
+Solutions:
+1. Use square brackets
+2. Use boolean conditions
+
+What is Selecting columns?
+Selecting columns will return a series(single column of data) and dataframe(multipe columns of data)
+Syntax is : column=df["Column name"]
+
+and if in 1 time u want to select more than 1 column than:
+subset=df["Column1", "Columns2",".....",]
+
+What is Filetering rows?
+Use boolean indexing
+
+# If you want to filter rows based on a single condition 
+Syntax is: filtered_rows = df[df["Salary"] > 50000]
+
+# if you want to filter rows based on multiple conditions
+Syntax is: filtered_rows = df[(df["Salary] > 50000) & (df["Column2" < 80000])]
