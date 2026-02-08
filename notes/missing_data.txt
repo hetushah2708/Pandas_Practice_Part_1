@@ -1,0 +1,4 @@
+1. Nan ( Not a Number)
+2. None(for object data types)
+3. isnull() -> True aaya toh 'NaN is missing' and False -> aaya toh 'Value is Present'
+
