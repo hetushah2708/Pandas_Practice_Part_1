@@ -1,67 +1,91 @@
-# 📊 Pandas Learning Journey — Part 1
+# 📊 Pandas Practice Repository — Structured Learning to Practical Analytics
 
-This repository documents my structured hands-on learning of **Python Pandas for Data Analysis**.
-It includes datasets, scripts, outputs, and practice problems completed as part of Pandas Part 1 training.
+This repository documents my structured, hands-on learning journey with **Python Pandas** for data analysis and preprocessing. It contains organized practice scripts, real datasets, and output files that demonstrate practical data handling workflows used in real analytics projects.
 
----
-
-## ✅ Topics Covered
-
-* Pandas fundamentals and data structures
-* Reading & writing CSV, Excel, JSON
-* Data inspection and summarization
-* Row & column operations
-* Handling encoding issues
-* Saving transformed data
-* Practical mini problems and solutions
-* Real dataset experimentation
+The goal of this project is to build strong Pandas foundations and progressively apply them to real-world style data tasks.
 
 ---
 
-## 📁 Project Structure
+## 🚀 Skills Demonstrated
+
+* DataFrame creation and manipulation
+* Reading & writing **CSV, Excel, JSON** files
+* Data inspection & summarization
+* Column and row operations
+* Adding, removing, and transforming columns
+* Handling missing data
+* Sorting & aggregation
+* Merging & joining datasets
+* Encoding handling for large datasets
+* Exporting processed data to output files
+
+---
+
+## 🗂 Repository Structure
 
 ```
-part_1_pandas_basics/
- ├── datasets/   → Input datasets
- ├── scripts/    → Python practice scripts
- ├── outputs/    → Generated result files
- └── notes/      → Practice questions & notes
+pandas_practice/
+│
+├── datasets/                 → Input datasets used for practice
+├── scripts/                  → Core Pandas learning scripts
+├── Handling Missing Data/    → Missing value handling techniques
+├── Merging & Joining/        → Merge & join operations
+├── Sorting & Aggregation/    → Sorting, grouping, aggregation
+├── outputs/                  → Generated result files
+├── notes/                    → Practice questions & learning notes
 ```
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Tools & Stack
 
 * Python
 * Pandas
 * VS Code
-* Jupyter style experimentation
+* Git & GitHub
 
 ---
 
-## 🎯 Learning Objective
+## 📌 Learning Approach
 
-To build strong foundational skills in Pandas for:
+This repo is built using a **practice-first approach**:
 
-* Data Cleaning
-* Data Transformation
-* File Operations
-* Analytics workflows
-* Preparation for Data Analyst & GenAI Engineer roles
-
----
-
-## 🚀 Next Steps
-
-Part 2 will include:
-
-* Data cleaning techniques
-* Missing value handling
-* GroupBy & aggregation
-* Data merging & joins
-* Feature engineering
+* Concept → Script → Dataset → Output
+* Each topic is implemented with code examples
+* Files are organized module-wise instead of random dumps
+* Focus on reproducible data workflows
 
 ---
 
-**Author:** Het Shah
-**Focus:** Data Analytics + GenAI Engineering Path
+## 🎯 Purpose
+
+To develop production-ready Pandas skills required for:
+
+* Data Analyst roles
+* Data preprocessing pipelines
+* Feature engineering preparation
+* GenAI / ML data workflows
+* Real business dataset handling
+
+---
+
+## 🔄 Ongoing Improvements
+
+This repository will continue to grow with:
+
+* Advanced data cleaning
+* GroupBy case studies
+* Feature engineering examples
+* Mini analytics projects
+
+---
+
+## 👤 Author
+
+**Het Shah**
+Data Analytics & Applied AI Learning Path
+Hands-on, project-driven skill development
+
+---
+
+⭐ If you’re a recruiter or reviewer, this repo reflects structured learning, practical execution, and workflow discipline rather than tutorial-only knowledge.
